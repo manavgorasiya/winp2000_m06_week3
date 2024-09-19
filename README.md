@@ -32,15 +32,14 @@ Choosing the right distribution depends on your experience level, needs, and pre
 The command line is a powerful tool for interacting with Linux. Here's a glimpse into some essential commands:
 
 -	ls: Lists files and directories in the current directory.
--	cd: Changes the current working directory.
+-	cd: This command is used to changes the current working directory.
 -	pwd: Prints the current working directory.   
--	mkdir: Creates a new directory.
--	cp: Copies files or directories.
--	mv: Moves or renames files or directories.
--	rm: Removes files or directories (use with caution!).   
--	sudo: Executes a command with superuser (root) privileges.
+-	mkdir: This command creates a new directory.
+-	cp: this command copies files or directories.
+-	mv: This command is used to moves or renames files or directories.
+-	rm: This command removes files or directories.   
+-	sudo: This command executes a command with superuser.
 
-Learning these commands provides a basic foundation for navigating the Linux operating system.
 
 # Conclusion
 
